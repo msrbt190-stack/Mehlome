@@ -1,0 +1,7 @@
+server_info.json
+__pycache__/
+*.pyc
+*.log
+.env
+.vscode/
+.devcontainer/
